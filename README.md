@@ -368,6 +368,7 @@ ASRU, SLT
 [✔️Code](https://github.com/marcoppasini/musika) | 
 [🎧Demo](https://marcoppasini.github.io/musika)
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
 
 ## Automatic Music Transcription
 [**2022**]
